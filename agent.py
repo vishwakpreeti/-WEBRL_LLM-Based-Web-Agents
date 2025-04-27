@@ -4,7 +4,7 @@ import openai
 openai.api_type = "azure"
 openai.api_base = "https://testingapi.openai.azure.com/"
 openai.api_version = "2023-12-01-preview"
-openai.api_key = "967z4RksgDIq0KggjJfE2XYoRz9fD5GeZLGNNwUcCCvCyhh9L5NKJQQJ99BDACYeBjFXJ3w3AAABACOGhpis"
+openai.api_key = "Add your key"
 
 def get_action(prompt):
     print("Sending prompt to Azure OpenAI...")  # added for debug
