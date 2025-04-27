@@ -40,6 +40,8 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 
 ![System Architecture](https://github.com/user-attachments/assets/ff0bf1c4-2a11-49fe-8a9e-438a589fc08e)
 
+---
+
 ## Dashboard Output - Simulated Search Action
 
 ![image](https://github.com/user-attachments/assets/9a58f0a4-a0f2-4524-bc2a-2ec787d213ed)
