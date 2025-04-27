@@ -34,9 +34,13 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 | Streamlit | Frontend Dashboard |
 | Windows 10/11 | Development Environment |
 
+# System Architecture
+
+![WEBRL drawio](https://github.com/user-attachments/assets/5d23751e-dc56-4fa6-8513-f596988fc5e2)
+
 ## Dashboard Output - Simulated Search Action
 
-![image](https://github.com/user-attachments/assets/0603d35c-af99-4458-9e30-acff1654cef4)
+![image](https://github.com/user-attachments/assets/9a58f0a4-a0f2-4524-bc2a-2ec787d213ed)
 
 ## Dashboard Output - Typing Action
 
@@ -44,7 +48,7 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 
 ## Terminal Logs - Agent Actions
 
-![image](https://github.com/user-attachments/assets/9a58f0a4-a0f2-4524-bc2a-2ec787d213ed)
+![image](https://github.com/user-attachments/assets/0603d35c-af99-4458-9e30-acff1654cef4)
 
 # Future Work
 - Integrate full Reinforcement Learning loop for policy learning
