@@ -34,7 +34,9 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 | Streamlit | Frontend Dashboard |
 | Windows 10/11 | Development Environment |
 
-# System Architecture
+---
+
+## System Architecture
 
 ![System Architecture](https://github.com/user-attachments/assets/ff0bf1c4-2a11-49fe-8a9e-438a589fc08e)
 
@@ -50,11 +52,20 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 
 ![image](https://github.com/user-attachments/assets/0603d35c-af99-4458-9e30-acff1654cef4)
 
-# Future Work
+## Output
+
+![image](https://github.com/user-attachments/assets/580777cc-b98b-4c18-9f0b-93540263e33f)
+
+---
+
+## Future Work
 - Integrate full Reinforcement Learning loop for policy learning
 - Expand to multi-step workflows (login, checkout)
 - Improve error recovery strategies
 - Test agent on multiple websites (e.g., Flipkart, Walmart)
 - Deploy in Linux environment for full Playwright control inside Streamlit
 
+---
+
+## Licence
 This project is licensed under the IITJ License.
