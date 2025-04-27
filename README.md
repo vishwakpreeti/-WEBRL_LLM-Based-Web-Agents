@@ -36,6 +36,8 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 
 # System Architecture
 
+System Architecture.gif 
+
 ![WEBRL drawio](https://github.com/user-attachments/assets/5d23751e-dc56-4fa6-8513-f596988fc5e2)
 
 ## Dashboard Output - Simulated Search Action
@@ -49,6 +51,10 @@ This project lays the foundation for integrating Reinforcement Learning concepts
 ## Terminal Logs - Agent Actions
 
 ![image](https://github.com/user-attachments/assets/0603d35c-af99-4458-9e30-acff1654cef4)
+
+# Output Video
+
+output video.mp4
 
 # Future Work
 - Integrate full Reinforcement Learning loop for policy learning
